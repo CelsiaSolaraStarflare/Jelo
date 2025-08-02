@@ -1,5 +1,6 @@
 # Machine Learning Models for Illinois Commodity Export Forecasting
 
+Updated Project Split Section until 8/2/2025
 ## Executive Summary
 
 Based on the analysis of Illinois export data with 110,711 records across multiple commodities, countries, and time periods (with time formats like 'Jul-16', 'Mar-08', 'Jun-24'), this document outlines three advanced machine learning approaches for forecasting commodity exports: **LSTM (Long Short-Term Memory)**, **State Space Models**, and **XGBoost** variants.
